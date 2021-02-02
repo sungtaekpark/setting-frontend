@@ -100,3 +100,4 @@
 5. Default formatter 설정
 - file -> default setting -> setting -> "default formatter" 검색 -> esbenp.prettier-vscode 를 선택 -> VSCode 재부팅
 
+# setting-frontend
